@@ -1,0 +1,3 @@
+[submodule "src/keras-retinanet"]
+	path = src/keras-retinanet
+	url = https://github.com/fizyr/keras-retinanet.git
